@@ -17,3 +17,10 @@ Class-based views are used for handling different API endpoints.
 - Django
 - Django REST Framework
 
+## Screenshots
+
+![Read](/path/to/screenshot1.png)
+![Create](/path/to/screenshot2.png)
+![Update](/path/to/screenshot1.png)
+![Delete](/path/to/screenshot2.png)
+
