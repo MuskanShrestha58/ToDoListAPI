@@ -19,8 +19,8 @@ Class-based views are used for handling different API endpoints.
 
 ## Screenshots
 
-![Read](/path/to/screenshot1.png)
-![Create](/path/to/screenshot2.png)
-![Update](/path/to/screenshot1.png)
-![Delete](/path/to/screenshot2.png)
+![Read](Read.png)
+![Create](Create.png)
+![Update](Detail.png)
+![Delete](Delete.png)
 
